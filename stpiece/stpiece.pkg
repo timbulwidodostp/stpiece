@@ -1,0 +1,4 @@
+D 'stpiece': Estimation of piecewise-constant hazard rate models Use stpiece With STATA 19
+D
+F stpiece.ado
+F stpiece.hlp
