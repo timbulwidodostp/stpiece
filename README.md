@@ -1,7 +1,7 @@
 # stpiece
 Estimation of piecewise-constant hazard rate models Use stpiece With STATA 19
 
-https://www.youtube.com/watch?v=7AcYy-TxrPE
+https://www.youtube.com/watch?v=gYmK9wQMWVo
 
 Olah Data Semarang
 
