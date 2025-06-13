@@ -1,6 +1,8 @@
 # stpiece
 Estimation of piecewise-constant hazard rate models Use stpiece With STATA 19
 
+https://www.youtube.com/watch?v=7AcYy-TxrPE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
